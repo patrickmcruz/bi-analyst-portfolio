@@ -25,7 +25,7 @@ Pages:
 1) General Data: Key digital marketing metrics centralized.
 2) Performance Channels: Metrics divided by performance channel.
 3) Weekly Performance: Breaking down by week shows key digital marketing metrics.
-4)  ite Interactions: Metrics about visits to the client's website.
+4) Site Interactions: Metrics about visits to the client's website.
 
 ### LEADS MODEL ###
 Link to view:
@@ -52,7 +52,7 @@ Pages:
 1) General Data: Key digital marketing metrics centralized.
 2) Performance Channels: Metrics divided by performance channel.
 3) Weekly Performance: Breaking down by week shows key digital marketing metrics.
-4)  ite Interactions: Metrics about visits to the client's website.
+4) Site Interactions: Metrics about visits to the client's website.
 
 ### REPORT MODEL ###
 Link to view:
