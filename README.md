@@ -7,7 +7,7 @@ https://lookerstudio.google.com/u/0/reporting/0bc7428b-0d08-433b-a774-6920301574
 Ferramenta & Plataforma: Looker / Data Studio
 
 Descrição:
-Digital Marketing Dashboard Model for Leads.
+Modelo de Dashboard para Digital Marketing focado em E-commerce.
 
 Origem:
 - ERP / CRM
@@ -35,7 +35,7 @@ https://lookerstudio.google.com/u/0/reporting/95138a4f-b215-4b67-aeaf-3272342d59
 Ferramenta & Plataforma: Looker / Data Studio
 
 Descrição:
-Digital Marketing Dashboard Model for Leads.
+Modelo de Dashboard para Digital Marketing focado em Leads.
 
 Origem:
 - ERP / CRM
