@@ -1,4 +1,4 @@
-# [ Portifólio ] B.I Analyst
+# [ Portifólio ] Analista de Business Intelligence
 
 ### E-COMMERCE MODEL ###
 Link:
