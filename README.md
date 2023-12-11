@@ -74,9 +74,7 @@ Transforming:
 - DML
 - SQL
 
-Pages:
+Sections:
 
-1) General Data: Key digital marketing metrics centralized.
-2) Performance Channels: Metrics divided by performance channel.
-3) Weekly Performance: Breaking down by week shows key digital marketing metrics.
-4)  ite Interactions: Metrics about visits to the client's website.
+1) Site Overview: Key digital marketing metrics centralized.
+2) Google Ads & Meta Ads: Grouping results by performance channels
