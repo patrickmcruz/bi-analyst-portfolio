@@ -1,5 +1,7 @@
 # [ Portfolio ] B.I Analyst
 
+
+### MODELO E-COMMERCE | EMPRESA ###
 Link to view:
 https://lookerstudio.google.com/u/0/reporting/0bc7428b-0d08-433b-a774-69203015745b/page/fuysB
 
