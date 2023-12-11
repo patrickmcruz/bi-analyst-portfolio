@@ -1,4 +1,4 @@
-# [ Portfolio ] B.I Analyst
+# [ Portifólio ] B.I Analyst
 
 ### E-COMMERCE MODEL ###
 Link:
