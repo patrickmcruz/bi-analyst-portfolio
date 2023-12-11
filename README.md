@@ -24,7 +24,7 @@ Páginas:
 
 1) Dados Gerais: Principais métricas do Marketing Digital de forma centralizada.
 2) Canais de Performance: Métricas divididas por canal de performance
-3) Performance Semanal: Quebrando em semaanas mostra principais métricas do Marketing Digital
+3) Performance Semanal: Quebrando em semanas mostra principais métricas do Marketing Digital
 4) Interações com Site: Métricas sobre visitas no site do cliente
 
 
@@ -52,7 +52,7 @@ Páginas:
 
 1) Dados Gerais: Principais métricas do Marketing Digital de forma centralizada.
 2) Canais de Performance: Métricas divididas por canal de performance
-3) Performance Semanal: Quebrando em semaanas mostra principais métricas do Marketing Digital
+3) Performance Semanal: Quebrando em semanas mostra principais métricas do Marketing Digital
 4) Interações com Site: Métricas sobre visitas no site do cliente
 
 ### REPORT MODEL ###
