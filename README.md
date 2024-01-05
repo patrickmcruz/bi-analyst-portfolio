@@ -11,6 +11,7 @@ Especialista no seguintes negócios:
 - Segurança da Informação
 - Governança de T.I (ITIL)
 - SLA (Acordos de niveis de serviços e contratos)
+- Modelos de Projetos Ágeis (Agile & Scrum)
 
 ## ⛏ Projeto 01 - Dashboard para E-commmerce ##
 
