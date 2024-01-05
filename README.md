@@ -14,6 +14,21 @@
 Descrição:
 Modelo de Dashboard para Digital Marketing focado em E-commerce.
 
+## ⚡ Analises descritivas, diagnósticas e estudos realizados
+
+### Primeira Página
+
+Obs: Existem mais de 10 análises por página, citarei apenas as principais.
+
+-  [ PRINCIPAIS MÉTRICAS ] Trazer principais indicadores de cada plataforma de Advertising e somas seus valores,
+   de modo que o estrategista de marketing digital possa ter rápido acesso ao investimento e retorno rapido conforme período escolhido.
+   
+-  [ RECEITA E ROAS POR STATUS DOS PEDIDOS ] Traz dados direto do ERP do cliente e cruza com dados de plataforma de Advertising,
+   assim cliente e o estrategista de marketing digital tem rapido acesso ao retorno real por investimento.
+
+-  [ FUNIL DE VENDAS ] Traz dados direto do site do cliente usando Data mining (Google Analytis 4), gerenciado por mim,
+   Demonstra a jornada completa do cliente em todo Checkout, assim cliente pode saber qual etapa clientes estão desistindo e melhorar tal página.
+
 ## ✍ Ferramentas de Ingestão de Dados
 - Python 3.11
     - Bibliotecas Utilizadas
@@ -53,6 +68,17 @@ Páginas:
 
 Descrição:
 Modelo de Dashboard para Digital Marketing focado em Leads.
+
+## ⚡ Analises descritivas, diagnósticas e estudos realizados
+
+### Primeira Página
+
+Obs: Existem mais de 10 análises por página, citarei apenas as principais.
+
+-  [ PRINCIPAIS MÉTRICAS ] Trazer principais indicadores de cada plataforma de Advertising e somas seus valores,
+   de modo que o estrategista de marketing digital possa ter rápido acesso ao investimento e retorno rapido conforme período escolhido
+
+-  [ SEGUNDA LINHA ] Trazer retorno de Leads detalhado por plataforma e depois demonstra de fato qual foi a origem exata de cada lead
 
 ## ✍ Ferramentas de Ingestão de Dados
 - Python 3.11
