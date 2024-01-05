@@ -1,10 +1,14 @@
 # [ Portifólio ] Analista de Business Intelligence
 
+<h1 align="center">
+  💻<br>[ Portifólio ] Patrick Motin Cruz - Analista de Business Intelligence
+</h1>
+
 ### E-COMMERCE MODEL ###
 Link:
 https://lookerstudio.google.com/u/0/reporting/0bc7428b-0d08-433b-a774-69203015745b
 
-Ferramenta & Plataforma: Looker / Data Studio
+Dataview plataform: Looker / Data Studio
 
 Descrição:
 Modelo de Dashboard para Digital Marketing focado em E-commerce.
@@ -32,7 +36,7 @@ Páginas:
 Link:
 https://lookerstudio.google.com/u/0/reporting/95138a4f-b215-4b67-aeaf-3272342d591c
 
-Ferramenta & Plataforma: Looker / Data Studio
+Dataview plataform: Looker / Data Studio
 
 Descrição:
 Modelo de Dashboard para Digital Marketing focado em Leads.
@@ -59,7 +63,7 @@ Páginas:
 Link to view:
 https://lookerstudio.google.com/reporting/cd9e6dcd-816b-46d5-93ca-b245f534f093
 
-Ferramenta & Plataforma: Looker / Data Studio
+Dataview plataform: Looker / Data Studio
 
 Descrição:
 Relatório de Marketing Digital focado em E-commerce.
