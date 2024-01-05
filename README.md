@@ -4,11 +4,12 @@
 
 ## 📚 Especialidades ##
 Especialista no seguintes negócios: 
-- Telecomunicações
+- Marketing
+- Telecomunicações ( STFC / VOIP )
 - Infraestrutura de T.I
+- Desenvolvimento de Software
 - Segurança da Informação
 - Governança de T.I (ITIL)
-- Marketing
 - SLA (Acordos de niveis de serviços e contratos)
 
 ## ⛏ Projeto 01 - Dashboard para E-commmerce ##
