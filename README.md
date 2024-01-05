@@ -4,7 +4,7 @@
 
 ## 📚 Projeto 01 - Dashboard para E-commmerce ##
 
-![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/b64aebfb-0e0d-4e85-a5b3-4bf3a8d684c2)
+![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/24099154-9c1d-49ef-901e-245c4a010c89)
 
 <h4 align="center"><a href="https://lookerstudio.google.com/u/0/reporting/0bc7428b-0d08-433b-a774-69203015745b">Clique para visitar o projeto</a></h4>
 
