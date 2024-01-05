@@ -2,6 +2,15 @@
   💻<br>[ Portifólio ] Analista de Business Intelligence
 </h1>
 
+## 📚 Especialidades ##
+Especialista no seguintes negócios: 
+- Telecomunicações
+- Infraestrutura de T.I
+- Segurança da Informação
+- Governança de T.I (ITIL)
+- Marketing
+- SLA (Acordos de niveis de serviços e contratos)
+
 ## 📚 Projeto 01 - Dashboard para E-commmerce ##
 
 ![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/24099154-9c1d-49ef-901e-245c4a010c89)
