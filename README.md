@@ -1,5 +1,3 @@
-# [ Portifólio ] Analista de Business Intelligence
-
 <h1 align="center">
   💻<br>[ Portifólio ] Patrick Motin Cruz - Analista de Business Intelligence
 </h1>
