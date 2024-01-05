@@ -6,9 +6,7 @@
 
 ![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/2a31a3df-93b9-4dcb-bf6d-84244d3bb79d)
 
-
-Link:
-https://lookerstudio.google.com/u/0/reporting/0bc7428b-0d08-433b-a774-69203015745b
+<h4 align="center"><a href="https://lookerstudio.google.com/u/0/reporting/0bc7428b-0d08-433b-a774-69203015745b">Clique para visitar o projeto</a></h4>
 
 Dataview plataform: Looker / Data Studio
 
