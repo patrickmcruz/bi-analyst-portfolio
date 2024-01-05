@@ -8,12 +8,22 @@
 
 <h4 align="center"><a href="https://lookerstudio.google.com/u/0/reporting/0bc7428b-0d08-433b-a774-69203015745b">Clique para visitar o projeto</a></h4>
 
-Dataview plataform: Looker / Data Studio
+## 💼 Dataviz utilizado
+- Looker / Data Studio
 
 Descrição:
 Modelo de Dashboard para Digital Marketing focado em E-commerce.
 
-Origem:
+## ✍ Ferramentas de Ingestão de Dados
+- Python 3.11
+    - Bibliotecas Utilizadas
+      - FacebookAdsApi
+      - Tiny ERP API
+      - User
+      - AdAccount
+      - AdReportRun
+      - Pandas
+      - Google Cloud Storage
 - ERP / CRM
 - Google GCP BigQuery
 - Facebook API
@@ -38,12 +48,22 @@ Páginas:
 
 <h4 align="center"><a href="https://lookerstudio.google.com/u/0/reporting/0bc7428b-0d08-433b-a774-69203015745b">Clique para visitar o projeto</a></h4>
 
-Dataview plataform: Looker / Data Studio
+## 💼 Dataviz utilizado
+- Looker / Data Studio
 
 Descrição:
 Modelo de Dashboard para Digital Marketing focado em Leads.
 
-Origem:
+## ✍ Ferramentas de Ingestão de Dados
+- Python 3.11
+    - Bibliotecas Utilizadas
+      - FacebookAdsApi
+      - Tiny ERP API
+      - User
+      - AdAccount
+      - AdReportRun
+      - Pandas
+      - Google Cloud Storage
 - ERP / CRM
 - Google GCP BigQuery
 - Facebook API
@@ -67,12 +87,22 @@ Páginas:
 
 <h4 align="center"><a href="https://lookerstudio.google.com/u/0/reporting/0bc7428b-0d08-433b-a774-69203015745b">Clique para visitar o projeto</a></h4>
 
-Dataview plataform: Looker / Data Studio
+## 💼 Dataviz utilizado
+- Looker / Data Studio
 
 Descrição:
 Relatório de Marketing Digital focado em E-commerce.
 
-Origem:
+## ✍ Ferramentas de Ingestão de Dados
+- Python 3.11
+    - Bibliotecas Utilizadas
+      - FacebookAdsApi
+      - Tiny ERP API
+      - User
+      - AdAccount
+      - AdReportRun
+      - Pandas
+      - Google Cloud Storage
 - ERP / CRM
 - Google GCP BigQuery
 - Facebook API
