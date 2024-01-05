@@ -11,7 +11,7 @@ Especialista no seguintes negócios:
 - Marketing
 - SLA (Acordos de niveis de serviços e contratos)
 
-## 📚 Projeto 01 - Dashboard para E-commmerce ##
+## ⛏ Projeto 01 - Dashboard para E-commmerce ##
 
 ![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/24099154-9c1d-49ef-901e-245c4a010c89)
 
@@ -66,7 +66,7 @@ Páginas:
 4) Interações com Site: Métricas sobre visitas no site do cliente
 
 
-## 📚 Projeto 02 - Dashboard para Leads ##
+## ⛏ Projeto 02 - Dashboard para Leads ##
 
 ![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/a78ffb54-8bc0-4b13-aeea-a45faa061665)
 
@@ -116,7 +116,7 @@ Páginas:
 3) Performance Semanal: Quebrando em semanas mostra principais métricas do Marketing Digital
 4) Interações com Site: Métricas sobre visitas no site do cliente
 
-## 📚 Projeto 03 - Relatório Mensal Automatizado ##
+## ⛏ Projeto 03 - Relatório Mensal Automatizado ##
 
 ![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/79221a77-47a9-4e13-afab-58da68ff6783)
 
