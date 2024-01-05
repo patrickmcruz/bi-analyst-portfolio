@@ -34,7 +34,7 @@ Páginas:
 
 ## 📚 Projeto 02 - Dashboard para Leads ##
 
-![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/34460fed-460a-420c-adb2-78487fda069f)
+![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/a78ffb54-8bc0-4b13-aeea-a45faa061665)
 
 <h4 align="center"><a href="https://lookerstudio.google.com/u/0/reporting/0bc7428b-0d08-433b-a774-69203015745b">Clique para visitar o projeto</a></h4>
 
