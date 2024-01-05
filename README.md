@@ -4,7 +4,8 @@
 
 ### E-COMMERCE MODEL ###
 
-![ E-COMMERCE MODEL ](/assets/42379629/d86fedca-3632-4f82-b9dc-89f7ac7acff4)
+![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/2a31a3df-93b9-4dcb-bf6d-84244d3bb79d)
+
 
 Link:
 https://lookerstudio.google.com/u/0/reporting/0bc7428b-0d08-433b-a774-69203015745b
