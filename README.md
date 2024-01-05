@@ -1,8 +1,8 @@
 <h1 align="center">
-  💻<br>[ Portifólio ] Patrick Motin Cruz - Analista de Business Intelligence
+  💻<br>[ Portifólio ] Analista de Business Intelligence
 </h1>
 
-### E-COMMERCE MODEL ###
+## 📚 Projeto 01 - Dashboard para E-commmerce ##
 
 ![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/2a31a3df-93b9-4dcb-bf6d-84244d3bb79d)
 
@@ -32,9 +32,10 @@ Páginas:
 4) Interações com Site: Métricas sobre visitas no site do cliente
 
 
-### LEADS MODEL ###
-Link:
-https://lookerstudio.google.com/u/0/reporting/95138a4f-b215-4b67-aeaf-3272342d591c
+## 📚 Projeto 02 - Dashboard para Leads ##
+
+![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/aa1aaabe-f007-4834-a317-6907960977f7)
+<h4 align="center"><a href="https://lookerstudio.google.com/u/0/reporting/0bc7428b-0d08-433b-a774-69203015745b">Clique para visitar o projeto</a></h4>
 
 Dataview plataform: Looker / Data Studio
 
@@ -59,9 +60,11 @@ Páginas:
 3) Performance Semanal: Quebrando em semanas mostra principais métricas do Marketing Digital
 4) Interações com Site: Métricas sobre visitas no site do cliente
 
-### REPORT MODEL ###
-Link to view:
-https://lookerstudio.google.com/reporting/cd9e6dcd-816b-46d5-93ca-b245f534f093
+## 📚 Projeto 03 - Relatório Mensal Automatizado ##
+
+![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/79221a77-47a9-4e13-afab-58da68ff6783)
+
+<h4 align="center"><a href="https://lookerstudio.google.com/u/0/reporting/0bc7428b-0d08-433b-a774-69203015745b">Clique para visitar o projeto</a></h4>
 
 Dataview plataform: Looker / Data Studio
 
