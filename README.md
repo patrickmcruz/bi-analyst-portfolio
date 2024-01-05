@@ -4,7 +4,7 @@
 
 ## 📚 Projeto 01 - Dashboard para E-commmerce ##
 
-![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/2a31a3df-93b9-4dcb-bf6d-84244d3bb79d)
+![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/b64aebfb-0e0d-4e85-a5b3-4bf3a8d684c2)
 
 <h4 align="center"><a href="https://lookerstudio.google.com/u/0/reporting/0bc7428b-0d08-433b-a774-69203015745b">Clique para visitar o projeto</a></h4>
 
@@ -34,7 +34,8 @@ Páginas:
 
 ## 📚 Projeto 02 - Dashboard para Leads ##
 
-![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/aa1aaabe-f007-4834-a317-6907960977f7)
+![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/34460fed-460a-420c-adb2-78487fda069f)
+
 <h4 align="center"><a href="https://lookerstudio.google.com/u/0/reporting/0bc7428b-0d08-433b-a774-69203015745b">Clique para visitar o projeto</a></h4>
 
 Dataview plataform: Looker / Data Studio
