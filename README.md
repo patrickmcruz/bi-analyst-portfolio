@@ -2,6 +2,8 @@
   💻<br>[ Portifólio ] Analista de Business Intelligence
 </h1>
 
+<h4 align="center"><a href="https://docs.google.com/document/d/1rGICm1N5b_DvGRqSLHSsWRNEg8rYRVSMy8m8fdAkX88/edit?usp=drive_link">👉 Baixe este portifólio clicando aqui </a></h4>
+
 ## 📚 Especialidades ##
 Especialista no seguintes negócios: 
 - Marketing
