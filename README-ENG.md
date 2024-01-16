@@ -2,7 +2,7 @@
   💻<br>[ Portfolio ] Business Intelligence Analyst
 </h1>
 
-<h4 align="center"><a href="https://docs.google.com/document/d/1rGICm1N5b_DvGRqSLHSsWRNEg8rYRVSMy8m8fdAkX88/edit?usp=drive_link">👉 Download here </a></h4>
+<h4 align="center"><a href="https://docs.google.com/document/d/1SV1E_5rciQF3MJMssVFBYa7f8Lr1KNq3ptrg7EcFOxA">👉 Download here </a></h4>
 
 ## 📚 Specialities ##
 Specialist in the following businesses:
