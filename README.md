@@ -44,11 +44,11 @@ Obs: Existem mais de 10 análises por página, citarei apenas as principais.
 ## ✍ Ferramentas de Ingestão de Dados
 - Python 3.11
     - Bibliotecas Utilizadas
-      - FacebookAdsApi
+      - Facebook Ads API
       - Tiny ERP API
       - User
-      - AdAccount
-      - AdReportRun
+      - Ad Account
+      - Ad Report Run
       - Pandas
       - Google Cloud Storage
 - ERP / CRM
@@ -95,11 +95,11 @@ Obs: Existem mais de 10 análises por página, citarei apenas as principais.
 ## ✍ Ferramentas de Ingestão de Dados
 - Python 3.11
     - Bibliotecas Utilizadas
-      - FacebookAdsApi
+      - Facebook Ads API
       - Tiny ERP API
       - User
-      - AdAccount
-      - AdReportRun
+      - Ad Account
+      - Ad Report Run
       - Pandas
       - Google Cloud Storage
 - ERP / CRM
@@ -134,11 +134,11 @@ Relatório de Marketing Digital focado em E-commerce.
 ## ✍ Ferramentas de Ingestão de Dados
 - Python 3.11
     - Bibliotecas Utilizadas
-      - FacebookAdsApi
+      - Facebook Ads API
       - Tiny ERP API
       - User
-      - AdAccount
-      - AdReportRun
+      - Ad Account
+      - Ad Report Run
       - Pandas
       - Google Cloud Storage
 - ERP / CRM
