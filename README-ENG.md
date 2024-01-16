@@ -128,8 +128,7 @@ Pages:
 ## 💼 Dataviz 
 - Looker / Data Studio
 
-Descrição:
-Marketing Digital Report focus in E-commerce.
+Description: Marketing Digital Report focus in E-commerce.
 
 ## ✍ Data Ingestion Tools
 - Python 3.11
