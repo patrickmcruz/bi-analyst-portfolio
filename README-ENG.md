@@ -44,11 +44,11 @@ Note: There are more than 10 analyzes per page, I will only mention the main one
 ## ✍ Data Ingestion Tools
 - Python 3.11
     - Libraries
-      - Facebook Ads Api
+      - Facebook Ads API
       - Tiny ERP API
       - User
-      - AdAccount
-      - AdReportRun
+      - Ad Account
+      - Ad Report Run
       - Pandas
       - Google Cloud Storage
 - ERP / CRM
@@ -95,7 +95,7 @@ Note: There are more than 10 analyzes per page, I will only mention the main one
 ## ✍ Data Ingestion Tools
 - Python 3.11
     - Libraries>
-      - Facebook Ads Api
+      - Facebook Ads API
       - Tiny ERP API
       - User
       - Ad Account
@@ -133,7 +133,7 @@ Description: Marketing Digital Report focus in E-commerce.
 ## ✍ Data Ingestion Tools
 - Python 3.11
     - Libraries>
-      - Facebook Ads Api
+      - Facebook Ads API
       - Tiny ERP API
       - User
       - Ad Account
