@@ -11,8 +11,7 @@ Especialista no seguintes negócios:
 - Infraestrutura de T.I
 - Desenvolvimento de Software
 - Segurança da Informação
-- Governança de T.I (ITIL)
-- SLA (Acordos de niveis de serviços e contratos)
+- Governança de T.I (ITIL) & SLA (Acordos de niveis de serviços e contratos)
 - Modelos de Projetos Ágeis (Agile & Scrum)
 
 ## ⛏ Projeto 01 - Dashboard para E-commmerce ##
