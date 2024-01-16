@@ -8,13 +8,13 @@
 Specialist in the following businesses:
 - Marketing and Sales
 - Telecommunications ( STFC / VOIP )
-- I.T Infrastruture / DevOPS
+- I.T Infrastructure  / DevOPS
 - Software Development
 - I.T Security
-- I.T Governance & SLA (ITIL and Best Pratices)
+- I.T Governance & SLA (ITIL and Best Practices)
 - Agile Project Models (Agile & Scrum)
 
-## ⛏ Project 01 - Dashboard for E-commmerce ##
+## ⛏ Project 01 - Dashboard for E-commerce ##
 
 ![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/24099154-9c1d-49ef-901e-245c4a010c89)
 
