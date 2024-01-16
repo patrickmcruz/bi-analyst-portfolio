@@ -4,8 +4,8 @@
 
 <h4 align="center"><a href="https://docs.google.com/document/d/1rGICm1N5b_DvGRqSLHSsWRNEg8rYRVSMy8m8fdAkX88/edit?usp=drive_link">👉 Download here </a></h4>
 
-## 📚 Especialidades ##
-Especialista no seguintes negócios: 
+## 📚 Specialties ##
+Specialist in the following businesses:
 - Marketing and Sales
 - Telecomunications ( STFC / VOIP )
 - I.T Infraestruture / DevOPS
@@ -14,7 +14,7 @@ Especialista no seguintes negócios:
 - I.T Governance & SLA (ITIL and Best Pratices)
 - Agile Project Models (Agile & Scrum)
 
-## ⛏ Projeto 01 - Dashboard for E-commmerce ##
+## ⛏ Project 01 - Dashboard for E-commmerce ##
 
 ![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/24099154-9c1d-49ef-901e-245c4a010c89)
 
@@ -69,7 +69,7 @@ Pages:
 4) Interactions with Website: Metrics about visits to the client’s website
 
 
-## ⛏ Projeto 02 - Dashboard for Leads ##
+## ⛏ Project 02 - Dashboard for Leads ##
 
 ![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/a78ffb54-8bc0-4b13-aeea-a45faa061665)
 
@@ -112,7 +112,7 @@ Data Transformation:
 - DML
 - SQL
 
-Páginas:
+Pages:
 
 1) General Data: Main Digital Marketing metrics in a centralized manner.
 2) Performance Channels: Metrics divided by performance channel
