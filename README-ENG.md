@@ -4,7 +4,7 @@
 
 <h4 align="center"><a href="https://docs.google.com/document/d/1rGICm1N5b_DvGRqSLHSsWRNEg8rYRVSMy8m8fdAkX88/edit?usp=drive_link">👉 Download here </a></h4>
 
-## 📚 Specialties ##
+## 📚 Specialities ##
 Specialist in the following businesses:
 - Marketing and Sales
 - Telecomunications ( STFC / VOIP )
