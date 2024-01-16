@@ -7,8 +7,8 @@
 ## 📚 Specialities ##
 Specialist in the following businesses:
 - Marketing and Sales
-- Telecomunications ( STFC / VOIP )
-- I.T Infraestruture / DevOPS
+- Telecommunications ( STFC / VOIP )
+- I.T Infrastruture / DevOPS
 - Software Development
 - I.T Security
 - I.T Governance & SLA (ITIL and Best Pratices)
