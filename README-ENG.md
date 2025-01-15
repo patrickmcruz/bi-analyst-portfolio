@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻<br>[ Portfolio ] Business Intelligence Analyst
+  💻<br>[ Portfolio ] Analytics Engineer - Business Intelligence Analyst
 </h1>
 
 <h4 align="center"><a href="https://docs.google.com/document/d/1SV1E_5rciQF3MJMssVFBYa7f8Lr1KNq3ptrg7EcFOxA">👉 Download here </a></h4>
