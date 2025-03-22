@@ -18,7 +18,7 @@ Specialist in the following businesses:
 
 ![image](https://github.com/patrickmcruz/bi-analyst-portfolio/assets/42379629/24099154-9c1d-49ef-901e-245c4a010c89)
 
-<h4 align="center"><a href="https://lookerstudio.google.com/u/0/reporting/0bc7428b-0d08-433b-a774-69203015745b">👉   </a></h4>
+<h4 align="center"><a href="https://lookerstudio.google.com/u/0/reporting/0bc7428b-0d08-433b-a774-69203015745b">👉 Link to project </a></h4>
 
 ## 💼 Dataviz
 - Looker / Data Studio
